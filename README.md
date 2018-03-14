@@ -26,7 +26,7 @@ Some materials for the course I provide via Citrus Academy and RoboHouse.
 Иногда меня можно встретить на девелоперских митапах, но проще написать сюда:
 
 ###### E-mail: 
-glushko.bohdan@gmail.com
+glushko.bohdan@gmail.com <br>
 bg@robo.house
 
 ###### Telegram:
