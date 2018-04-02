@@ -13,13 +13,13 @@ Some materials for the course I provide via Citrus Academy and RoboHouse.
 <a href="https://www.youtube.com/watch?v=xHp1dMIL7P4">- Вебинар 1: Python против досуга.</a>
 
 ###### Неделя 2
-<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection2">- Лекция 2: Продолжаем знакомиться с пАйтоном.</a>
-<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection3">- Лекция 3: Заканчиваем знакомство с Python3.</a>
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection2">- Лекция 2: Продолжаем знакомиться с пАйтоном.</a><br/>
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection3">- Лекция 3: Заканчиваем знакомство с Python3.</a><br/>
 
 ###### Неделя 3
-<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection4">- Лекция 4: Смотрим на Wikipedia. API и с чем их едят.</a>
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection4">- Лекция 4: Смотрим на Wikipedia. API и с чем их едят.</a><br/>
 
-<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection5">- Лекция 5: Telegram API. Пишем простого Телеграм-бота.</a>
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection5">- Лекция 5: Telegram API. Пишем простого Телеграм-бота.</a><br/>
 
 ###### Кто ведет курс?
 Курс веду я :) Богдан Глушко, Middle Software Engineer в RoboHouse.
