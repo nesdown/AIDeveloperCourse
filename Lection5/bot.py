@@ -19,6 +19,15 @@ def repeat_all_message(message):
     #А когда "словила", разбивает сообщение на "отправителя" - message.chat.id,
     #И на текст сообщения - message.text
     bot.send_message(message.chat.id, message.text)
+    
+'''
+А вот так заставить бота "общаться с пользователем":
+def answer_questions(message):
+    if message.text == "Привет":
+        bot.send_message(message.chat.id, "Привет, как дела?")
+    if message.text == "Как дела?":
+        bot.send_message(message.chat.id, "Отлично, а у тебя?")
+'''
 
 
 #Какая "должность" у нашего файла? Если он главный (main), то запустим бота
