@@ -9,7 +9,7 @@ Some materials for the course I provide via Citrus Academy and RoboHouse.
 
 ## План курса
 ###### Неделя 1
-<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection1">- Лекция 1: Знакомство с питонами. </a>
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection1">- Лекция 1: Знакомство с питонами. </a> <br/>
 <a href="https://www.youtube.com/watch?v=xHp1dMIL7P4">- Вебинар 1: Python против досуга.</a>
 
 ###### Неделя 2
