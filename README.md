@@ -21,10 +21,13 @@ Some materials for the course I provide via Citrus Academy and RoboHouse.
 
 <a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection5">- Лекция 5: Telegram API. Пишем простого Телеграм-бота.</a><br/>
 
-###### Неделя 4
+###### Неделя 4-5
 <a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection6">- Лекция 6: Почему роботы не восстанут? Смотрим на нейросети.</a><br/>
 
-<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection7">- Лекция 7: Результат налицо: обучаем компьютер распознавать черты лиц.</a><br/>
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection7-9">- Лекция 7-9: Оно живое! Учим нейросеть отвечать на вопросы и быть умной.</a><br/>
+
+###### Неделя 6
+<a href="https://github.com/nesdown/AIDeveloperCourse/tree/master/Lection10-11">- Лекция 10-11: Графические интерфейсы: делаем ИИ красивым.</a><br/>
 
 ###### Кто ведет курс?
 Курс веду я :) Богдан Глушко, Middle Software Engineer в RoboHouse.
